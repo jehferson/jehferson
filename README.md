@@ -19,6 +19,8 @@
 ###
 
 <div align="left">
+  <img src="https://www.bing.com/images/search?view=detailV2&ccid=dJToM1Ti&id=DE51371A674888A582427D13DA4B589A2D11D2F6&thid=OIP.dJToM1TiZiJA0GYwzDHwjQHaHY&mediaurl=https%3a%2f%2fbrandslogos.com%2fwp-content%2fuploads%2fimages%2flarge%2fpython-logo.png&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.7494e83354e2662240d06630cc31f08d%3frik%3d9tIRLZpYS9oTfQ%26pid%3dImgRaw%26r%3d0&exph=1275&expw=1280&q=python&simid=608000338663790875&FORM=IRPRST&ck=69D1240E68141FA46244D688FE48D792&selectedIndex=5&itb=1&ajaxhist=0&ajaxserp=0"  />
+  <img width="12"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
