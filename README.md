@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating codes since 2022.<br>📚 I'm currently learning SQL and improving my English. However, I master the Python language.<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Creating codes since 2022.<br>📚 I'm currently learning SQL and improving my English. However, I master the Python language.<br>🎯 My main goal is to surpass myself every day, programming incredible codes and overcoming each challenge.<br>🎲 Fun fact: ...</p>
 
 ###
 
