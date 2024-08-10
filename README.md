@@ -18,7 +18,8 @@
   #### VOCÊ PODE ME ENCONTRAR:<br>
 ###
 
-- Instagram -> </p>
+- Instagram -> <br>
+- Linkedim -> </p>
 ---
 ###
 
