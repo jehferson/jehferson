@@ -16,10 +16,6 @@
 
 <h2 align="left">I code with</h2>
 
-<!-- GIF -->
-<p align="left">
-  <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
-</p>
 
 ###
 
@@ -28,5 +24,10 @@
   <img width="12"  />
   <img src="https://github.com/user-attachments/assets/5f913eb5-adcd-4c53-9347-c701510fe1b0" height="40" alt="javascript logo"  />
  </div>
+
+ <!-- GIF -->
+<p align="left">
+  <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
+</p>
 
 ###
