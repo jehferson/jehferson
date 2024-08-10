@@ -7,13 +7,9 @@
 
  <!-- GIF -->
 <p align="left">
-  <img align="center" src="https://github.com/user-attachments/assets/73d1c287-7265-4d08-a451-91b9816d0b9b" alt="Imagem">
+  <img align="center" src="https://github.com/user-attachments/assets/f741bc05-a2e0-40ef-b21b-e15ccc5e2f3b" alt="Imagem">
 </p>
 
- <!-- GIF -->
-<p align="left">
-  <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
-</p>
 
 ###
 
