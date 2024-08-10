@@ -19,7 +19,8 @@
 ###
 
 <div align="left">
-  <img src="https://image.pngaaa.com/852/6333852-middle.png"  />
+  <img src="![Design sem nome](https://github.com/user-attachments/assets/5ffaed20-f6fc-47e6-a960-6433bbd0eea6)
+"  />
   <img width="12"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
