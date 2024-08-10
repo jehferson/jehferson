@@ -4,6 +4,12 @@
 
 <p align="left">My name is Jeferson Cubas and I'm an aspiring programmer in the field of data. </p>
 
+
+ <!-- GIF -->
+<p align="left">
+  <img align="center" src="https://github.com/user-attachments/assets/73d1c287-7265-4d08-a451-91b9816d0b9b" alt="Imagem">
+</p>
+
  <!-- GIF -->
 <p align="left">
   <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
