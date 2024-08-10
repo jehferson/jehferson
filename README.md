@@ -19,7 +19,7 @@
 ###
 
 <div align="left">
-  <img src="![Img  Python](https://github.com/user-attachments/assets/49f0c841-7f98-4eef-ae30-7ab5b181aa14)"  />
+  <img src="https://github.com/user-attachments/assets/49f0c841-7f98-4eef-ae30-7ab5b181aa14)"  />
   <img width="12"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
