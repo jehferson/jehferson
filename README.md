@@ -9,8 +9,7 @@
 
 ###
 
-<p align="left">✨ Creating codes since 2022.<br>📚 I'm currently learning SQL and improving my English. However, I master the Python language.<br>🎯 My main goal is to surpass myself every day, programming incredible codes and overcoming each challenge.<br>🎲 I'm thirsty for challenges.<br>    VOCÊ PODE ME ENCONTRAR:
-  Instagram -> </p>
+<p align="left">✨ Creating codes since 2022.<br>📚 I'm currently learning SQL and improving my English. However, I master the Python language.<br>🎯 My main goal is to surpass myself every day, programming incredible codes and overcoming each challenge.<br>🎲 I'm thirsty for challenges.<br>    VOCÊ PODE ME ENCONTRAR:<br>Instagram -> </p>
 
 ###
 
