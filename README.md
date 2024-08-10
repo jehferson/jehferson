@@ -18,7 +18,6 @@
   #### VOCÊ PODE ME ENCONTRAR:<br>
 ###
 
-- [whatsapp]((43)998715079)
 - [Linkedin](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BRqhj%2BNpiSv6%2F%2F2d8cs6%2FCw%3D%3D) </p>
 ---
 ###
