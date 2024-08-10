@@ -2,11 +2,6 @@
 
 ###
 
-<p align="left">My name is Jeferson Cubas and I'm an aspiring programmer in the field of data. </p>
- <!-- GIF -->
-<p align="left">
-  <img align="center" src="https://github.com/user-attachments/assets/f741bc05-a2e0-40ef-b21b-e15ccc5e2f3b" alt="Imagem">
-</p>
 
 ###
 
