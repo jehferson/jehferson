@@ -2,7 +2,6 @@
 
 ###
 
-
 <p align="left">My name is Jeferson Cubas and I'm an aspiring programmer in the field of data. </p>
 
  <!-- GIF -->
