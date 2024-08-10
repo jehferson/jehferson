@@ -19,7 +19,7 @@
 ###
 
 <div align="left">
-  <img src="https://www.stickpng.com/pt-br/img/icones-logos-emojis/marcas-iconicas/logotipo-python"  />
+  <img src="https://th.bing.com/th/id/R.ea42b32a2802e480bf0527ca1a392e8e?rik=%2bqBPaHYq4dKZIg&pid=ImgRaw&r=0"  />
   <img width="12"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
